@@ -16,8 +16,8 @@
 <img align="center" alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
 </div></br>
 
-Fascinado por Tecnologia, Desenvolvimento Front End e CiberSegurança.
-Atualmente estou fazendo Bacharelado em Ciências da Computação 💻
+Fascinado por Tecnologia, Desenvolvimento Front End e CiberSegurança.</br>
+Atualmente estou fazendo Bacharelado em Ciências da Computação 💻</br>
 
 ## E-mails para contato:
 - gustavoheitmann13@gmail.com</br>
