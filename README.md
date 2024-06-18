@@ -1,4 +1,4 @@
-## Hi, There. My name is Gustavo 🙋🏻‍♂️
+## Hi There. My name is Gustavo 🙋🏻‍♂️
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gustavohfig_/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-heitmann-freire-figueiredo-19456a26a/)
 
